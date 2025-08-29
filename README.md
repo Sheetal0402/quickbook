@@ -5,9 +5,7 @@ A beautiful cross-platform service booking application built with Flutter. Quick
 
 ✨ Features
 🎨 Modern UI/UX: Beautiful Material 3 design with gradient themes and animations
-
 🏠 Service Discovery: Browse various services with professional work photos
-
 📅 Easy Booking: Select services and choose date & time with calendar picker
 📋 Booking Management: View and track your booked services
 👤 User Profile: Personal profile management with preferences
